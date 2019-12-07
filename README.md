@@ -24,17 +24,17 @@ Am 14.01.2020 endet der Support für Windows 7. Wer für Famile oder Freunde den
 
 ## 03. Software für die Erstausstattung
 
-## 03.01 Büroprogramme
+### 03.01 Büroprogramme
 - [ ] https://www.freeoffice.com/de/
 - [ ] ...
 - [ ] ...
 
-## 03.02 E-Mail / Internet
+### 03.02 E-Mail / Internet
 - [ ] https://www.mozilla.org/de/firefox/new/?redirect_source=firefox-com
 - [ ] ...
 - [ ] ...
 
-## 03.04 Hilfsprogramme
+### 03.04 Hilfsprogramme
 - [ ] https://www.teamviewer.com/de/
 - [ ] https://keepass.info/
 - [ ] ...
