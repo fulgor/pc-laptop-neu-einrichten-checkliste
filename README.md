@@ -6,7 +6,7 @@ Am 14.01.2020 endet der Support für Windows 7. Wer für Famile oder Freunde den
 **Bitte Hinweise hierzu als [Issue](https://github.com/fulgor/pc-laptop-neu-einrichten-checkliste/issues) eintragen!**
 
 ## 01. Vorbereitungen
-- [ ] Backup der Nutzerdaten auf ein externes Medium,
+- [ ] [Backup](/wiki/Backup) der Nutzerdaten auf ein externes Medium,
 - [ ] Backup der Konfigurationsdateien (z.B. Thunderbird, Firefox - zumindest Lesezeichen exportieren),
 - [ ] Bedarfe klären: 
   - [ ] Welche Software wird benötigt? 
