@@ -39,3 +39,9 @@ Am 14.01.2020 endet der Support für Windows 7. Wer für Famile oder Freunde den
 - [ ] https://keepass.info/
 - [ ] ...
 - [ ] ...
+
+
+## 04. Nachbereitung
+- [ ] Standard-Programme festlegen
+- [ ] Welche Programm-Symbole kommen in die Leiste / auf den Desktop
+- [ ] Backup-Lösung?
