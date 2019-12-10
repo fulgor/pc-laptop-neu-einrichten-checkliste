@@ -13,7 +13,7 @@ Am 14.01.2020 endet der Support für Windows 7. Wer für Familie oder Freunde de
   - [ ] Welches Betriebssystem soll installiert werden?
   - [ ] Ist die Hardware noch geeignet oder muss andere Hardware beschafft werden?
    - [ ] Wenn die neue Hardware kein DVD-Laufwerk hat, klären wie Installations-DVDs weiter genutzt werden können.
-- [ ] Winows-Lizenz-Aufkleber fotografieren,
+- [ ] Windows-Lizenz-Aufkleber fotografieren,
 - [ ] Bei PC die Verkabelung (Maus, Tastatur, Monitor Drucker, Netzkabel, ...) fotografieren,
 
 ## 02. Betriebssystem installieren
@@ -41,8 +41,8 @@ Am 14.01.2020 endet der Support für Windows 7. Wer für Familie oder Freunde de
 - [ ] ...
 
 ### 03.04 Hilfsprogramme
-- [ ] ...
-- [ ] ...
+- [ ] Backup: [back4sure über heise.de](https://www.heise.de/download/product/back4sure-70729) (Windows)
+- [ ] Backup: https://freefilesync.org/ (Linux, macOS, Windows)
 - [ ] Fernwartung: https://www.teamviewer.com/de/ (Chrome OS, Linux, macOS, Windows)
 - [ ] Passwortsafe: https://keepass.info/ (BSD, Linux, macOS, Windows)
 - [ ] Grafik: 
