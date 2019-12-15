@@ -10,8 +10,8 @@ Am 14.01.2020 endet der Support für Windows 7. Wer für Familie oder Freunde de
 - [ ] Backup der Konfigurationsdateien (z.B. Thunderbird, Firefox - zumindest Lesezeichen exportieren),
 - [ ] Bedarfe klären: 
   - [ ] Welche Software wird benötigt? 
-  - [ ] Welches Betriebssystem soll installiert werden?
-  - [ ] Ist die Hardware noch geeignet oder muss andere Hardware beschafft werden?
+  - [ ] [Welches Betriebssystem](https://github.com/fulgor/pc-laptop-neu-einrichten-checkliste/wiki/Betriebssystem) soll installiert werden?
+  - [ ] Ist die Hardware noch geeignet oder muss [andere Hardware](gebrauchte-hardware-haendler.md) beschafft werden?
    - [ ] Wenn die neue Hardware kein DVD-Laufwerk hat, klären wie Installations-DVDs weiter genutzt werden können.
 - [ ] Windows-Lizenz-Aufkleber fotografieren,
 - [ ] Bei PC die Verkabelung (Maus, Tastatur, Monitor Drucker, Netzkabel, ...) fotografieren,
