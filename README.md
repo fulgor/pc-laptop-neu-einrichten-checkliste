@@ -17,9 +17,11 @@ Am 14.01.2020 endet der Support für Windows 7. Wer für Familie oder Freunde de
 - [ ] Bei PC die Verkabelung (Maus, Tastatur, Monitor Drucker, Netzkabel, ...) fotografieren,
 
 ## 02. Betriebssystem installieren
-- [ ] Installationsmedium erstellen (USB-Bootstick, DVD),
+- [ ] Klären: Wie bootet mein Rechner vom Installationsmedium (MBR oder UEFI)? 
+- [ ] Installationsmedium erstellen (USB-Bootstick, DVD):
+  - [ ] Bei Windows mit [Rufus](https://rufus.ie/) (MBR oder UEFI), Medium zumindest 6 GB
+  - [ ] Bei Linux oder iOS z.B. mit [balenaEtcher](https://www.balena.io/etcher/), Medium zumindest 2 GB
 - [ ] Wie komme ich beim Booten ins Bios, um ggf. Secure Boot vorübergehend auszuschalten?
-- [ ] Klären: Wie bootet mein Rechner vom Installationsmedium?
 - [ ] Konfiguration: Datenschutz
 
 ## 03. Software für die Erstausstattung
@@ -46,6 +48,7 @@ Am 14.01.2020 endet der Support für Windows 7. Wer für Familie oder Freunde de
 - [ ] Fernwartung: https://www.teamviewer.com/de/ (Chrome OS, Linux, macOS, Windows)
 - [ ] Passwortsafe: https://keepass.info/ (BSD, Linux, macOS, Windows)
 - [ ] Grafik: 
+- [ ] ... 
 - [ ] ...
 
 
